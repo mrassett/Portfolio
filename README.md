@@ -1,1 +1,1 @@
-Professional Portfolio created with the Bootstrap Grayscale Theme.
+Portfolio created with the Bootstrap Grayscale Theme.
